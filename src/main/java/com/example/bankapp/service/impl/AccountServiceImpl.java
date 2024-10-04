@@ -5,7 +5,10 @@ import com.example.bankapp.entity.Account;
 import com.example.bankapp.mapper.AccountMapper;
 import com.example.bankapp.repository.AccountRepository;
 import com.example.bankapp.service.AccountService;
+import org.springframework.stereotype.Service;
 
+
+@Service
 public class AccountServiceImpl implements AccountService {
 
 
