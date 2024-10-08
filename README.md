@@ -28,7 +28,7 @@ Gönderilen `AccountDto` ile yeni bir hesap oluşturur.
 
 ```json
 {
-  "name": "John Doe",
+  "accountHolderName": "Cem Yılmaz",
   "balance": 1000.0
 }
 ```
